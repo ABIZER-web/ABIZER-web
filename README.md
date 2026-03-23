@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full Stack Developor <br>3rd year IT student <br>Mumbai University <br>I am exploring and learning Backend
+Full Stack Developer <br>3rd year IT student <br>Mumbai University <br>I am exploring and learning Backend
 
 
 ## 🌐 Socials:
