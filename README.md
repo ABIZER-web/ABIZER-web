@@ -2,12 +2,7 @@
 <h3 align="center">Full Stack Developer · Building web products for real businesses</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=500&height=45&lines=Full+Stack+Developer;Freelancer;4th+Year+IT+Student+%40+Mumbai+University;Currently+leveling+up+my+Backend" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ABIZER-web&style=flat-square&color=orange" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/ABIZER-web?style=flat-square&color=orange" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=600&height=45&lines=Full+Stack+Developer;Freelancer;4th+Year+IT+Student+at+Mumbai+University;Currently+leveling+up+my+Backend" alt="Typing SVG" />
 </p>
 
 ---
