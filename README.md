@@ -1,16 +1,105 @@
-# 💫 About Me:
-Full Stack Developer <br>3rd year IT student <br>Mumbai University <br>I am exploring and learning Backend
+<h1 align="center">Hi, I'm Abizer 👋</h1>
+<h3 align="center">Full Stack Developer · Building web products for real businesses</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;3rd+Year+IT+Student+%40+Mumbai+University;I+build+websites%2C+PDF+tools+%26+web+apps+for+small+businesses;Currently+leveling+up+my+Backend&font=Fira+Code&center=true&width=500&height=45&color=F7A600&vCenter=true&size=22" alt="Typing SVG" />
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_a.sa1fy_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abizersaifee5253@gmail.com) 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ABIZER-web&style=flat-square&color=orange" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/ABIZER-web?style=flat-square&color=orange" alt="Followers" />
+</p>
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ABIZER-web&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 💫 About Me
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🎓 3rd year IT student at Mumbai University (MHSSCOE)
+- 💼 Building production-ready websites, dashboards & PDF-generation tools for local businesses
+- 🛠️ Recent work: multi-step calculators, dynamic catalog/PDF systems, brand infrastructure, full-stack ordering platforms
+- 🌱 Currently deepening my backend skills (Express, MySQL, Firebase)
+- ⚡ Fun fact: I ship for real clients, not just tutorials
 
+---
+
+### 🚀 Featured Work
+
+> Pin these from your repo settings so they show up here — replace with your actual repo links once pushed.
+
+<table>
+<tr>
+<td width="50%">
+
+**🔆 Saifee Electric & Electronics**
+Multi-page business site with a 4-step solar calculator (state-wise tariffs + subsidy logic), branded PDF report generation, and a full catalog/business-card PDF system.
+`HTML` `CSS` `JS` `jsPDF`
+[Live Demo →](https://saifee-electronics.vercel.app)
+
+</td>
+<td width="50%">
+
+**🍽️ ServeAI**
+AI-powered food ordering platform with server-side price validation, built on Express/Node.js and React/Vite.
+`Node.js` `Express` `React` `Vite` `Zustand`
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/mr-abizer-saify-a3b936278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_a.sa1fy_" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:abizersaifee5253@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ABIZER-web&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ABIZER-web&theme=radical&hide_border=true" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIZER-web&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=ABIZER-web&theme=radical&no-frame=true&margin-w=10&row=1" />
+</p>
+
+---
+
+<p align="center"><i>"I'll bet you that from ten feet away I can tell if a program is bad. I might not guarantee that it is good, but if it looks bad from ten feet, it is bad." — Rob Pike</i></p>
