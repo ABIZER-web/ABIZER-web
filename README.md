@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Building web products for real businesses</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;3rd+Year+IT+Student+%40+Mumbai+University;I+build+websites%2C+PDF+tools+%26+web+apps+for+small+businesses;Currently+leveling+up+my+Backend&font=Fira+Code&center=true&width=500&height=45&color=F7A600&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;4th+Year+IT+Student+%40+Mumbai+University;I+build+websites%2C+PDF+tools+%26+web+apps+for+small+businesses;Currently+leveling+up+my+Backend&font=Fira+Code&center=true&width=500&height=45&color=F7A600&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 <p align="center">
