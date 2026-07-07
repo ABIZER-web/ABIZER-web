@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer · Building web products for real businesses</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;4th+Year+IT+Student+%40+Mumbai+University;I+build+websites%2C+PDF+tools+%26+web+apps+for+small+businesses;Currently+leveling+up+my+Backend&font=Fira+Code&center=true&width=500&height=45&color=F7A600&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=F7A600&center=true&vCenter=true&width=500&height=45&lines=Full+Stack+Developer;Freelancer;4th+Year+IT+Student+%40+Mumbai+University;Currently+leveling+up+my+Backend" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,11 +14,11 @@
 
 ### 💫 About Me
 
-- 🎓 3rd year IT student at Mumbai University (MHSSCOE)
-- 💼 Building production-ready websites, dashboards & PDF-generation tools for local businesses
-- 🛠️ Recent work: multi-step calculators, dynamic catalog/PDF systems, brand infrastructure, full-stack ordering platforms
+- 🎓 4th year IT student at Mumbai University (MHSSCOE)
+- 💼 Freelance Full Stack Developer
+- 🛠️ I build and ship complete web applications end-to-end — frontend, backend, and deployment
 - 🌱 Currently deepening my backend skills (Express, MySQL, Firebase)
-- ⚡ Fun fact: I ship for real clients, not just tutorials
+- ⚡ I like shipping real, working products over half-finished tutorials
 
 ---
 
@@ -84,8 +84,8 @@ AI-powered food ordering platform with server-side price validation, built on Ex
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ABIZER-web&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=ABIZER-web&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ABIZER-web&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://streak-stats.demolab.com/?user=ABIZER-web&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
