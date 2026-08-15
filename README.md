@@ -264,17 +264,17 @@ CGPI: **6.53 / 10**
 # 📊 GitHub Stats
 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api?username=ABIZER-web&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    src="./profile/stats.svg"
     height="170"
+    alt="GitHub Stats"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABIZER-web&layout=compact&theme=transparent&hide_border=true"
+    src="./profile/top-langs.svg"
     height="170"
+    alt="Top Languages"
   />
-
 </p>
 
 ---
